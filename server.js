@@ -1,3 +1,5 @@
+// https://scotch.io/tutorials/testing-angularjs-with-jasmine-and-karma-part-1#adding-users-to-the-users-service
+
 const express = require('express')
       , app = express()
       , bodyParser = require('body-parser')
